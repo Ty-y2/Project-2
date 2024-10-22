@@ -1,0 +1,62 @@
+h1{
+    color:teal;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+}
+
+.pac{
+    display: inline-block;
+    margin:70px 10px;
+}
+
+.yup{
+    margin-top: 200px;
+    margin-left: 650px;
+}
+
+.mage{
+    margin-top:400px;
+}
+
+.dolp{
+    width: 700px;
+    height:600px;
+}
+
+.tron{
+    margin-top: -10px;
+    margin-left: 900px;
+}
+.zilla{
+    margin-top: -10px;
+    margin-right: 900px;
+    height: 600px;
+}
+.lego{
+    margin-top: -300px;
+    margin-left: 900px;
+    height: 600px;
+}
+.water{
+    height: 700px;
+    margin-right:400px;
+}
+.game{
+    margin-top: 10px;
+    height: 600px;
+}
+#euph{
+    height: 600px;
+}
+#bari{
+    height:600px;
+    margin-left: 415px;
+}
+#tax{
+    height: 700px;
+    width: 800px;
+    margin-left: 300px;
+}
